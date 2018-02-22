@@ -1,0 +1,53 @@
+/* add your CSS here */
+.pika
+{
+	width: 300px;
+	height: 300px;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 10px;
+	border-color: grey;
+	box-shadow: 10px;
+	padding: 10px;
+}
+#interesting-facts
+{
+	font-style: italic;
+}
+.bolded
+{
+	font-weight: bold;
+}
+#no-dots
+{
+	list-style-type: none;
+	display: inline;
+}
+.frame
+{
+	width: 325px;
+	border-width: : 2px;
+	border-style: solid;
+	border-color: grey;
+	border-radius: 5px;
+	padding: 10px;
+	padding-top: 5px;
+	box-shadow: 10px 10px 88px 3px rgba(0,0,0,0.69);
+
+}
+
+#animal-name
+{
+	font-family: Helvetica;
+	font-weight: bold;	
+}
+.bottom
+{
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 10px;
+	border-color: grey;
+	padding: 10px;
+	width: 300px;
+	
+}
